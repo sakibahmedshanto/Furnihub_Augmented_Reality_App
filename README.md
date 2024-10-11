@@ -33,16 +33,23 @@ Check out these GIFs showcasing Furnihub in action:
 
 ## Screenshots
 
-Here are some screenshots of the app:
-![Splash Screen](1.jpg)
-![Welcome Screen](2.jpg)
-![Login With Google](3.jpg)
-![Home Screen](4.jpg)
-![Product_Details Screen](5.jpg)
-![AR_Furniture View Screen](6.jpg)
-![Cart Screen](7.jpg)
-![Order Summary Screen](8.jpg)
-![Contact Screen](9.jpg)
+Here are some screenshots from the app, arranged to show various features and pages:
+
+### Onboarding and Authentication Screens
+| Logo | Splash Sreen | Login With Google |
+|---------------|----------------|-------------------|
+| ![Logo](SreenShots/logo.jpg) | ![Splash Screen](SreenShots/splash_screen.jpg) | ![Login With Google](SreenShots/welcome.jpg) |
+
+### Main Features
+| Home Screen | Product Details Screen | AR Furniture View Screen |
+|-------------|------------------------|-------------------------|
+| ![Home Screen](SreenShots/home.jpg) | ![Product Details Screen](SreenShots/product.jpg) | ![AR Furniture View Screen](SreenShots/ar_img.jpg) |
+
+### Cart and Order Management
+| Drawer | Contact Screen |
+|----------------------|----------------|
+| ![Order Summary Screen](SreenShots/drawer.jpg) | ![Contact Screen](SreenShots/contact.jpg) |
+
 
 ## Web Version
 
