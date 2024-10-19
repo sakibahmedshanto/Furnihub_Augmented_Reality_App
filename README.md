@@ -5,6 +5,7 @@ Furnihub is an innovative e-commerce Android application developed using Flutter
 ## Table of Contents
 
 - [Features](#features)
+- [GIFs](#gifs)
 - [Screenshots](#screenshots)
 - [Contact](#contact)
 
@@ -36,21 +37,48 @@ Check out the video showcasing Furnihub in action:
 Here are some screenshots from the app, arranged to show various features and pages:
 
 ### Onboarding and Authentication Screens
-| Logo | Splash Sreen | Login With Google |
-|---------------|----------------|-------------------|
-| ![Logo](ScreenShots/logo.jpg) | ![Splash Screen](ScreenShots/splash_screen.jpg) | ![Login With Google](ScreenShots/welcome.gif) |
+<table>
+  <tr>
+    <td><img src="ScreenShots/splash_screen.jpg" alt="Splash Screen" width="200"/></td>
+    <td><img src="ScreenShots/welcome.gif" alt="Login With Google" width="200"/></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Splash Screen</td>
+    <td style="text-align: center;">Login With Google</td>
+  </tr>
+</table>
 
 ### Main Features
-| Home Screen | Product Details Screen | AR Furniture View Screen |
-|-------------|------------------------|-------------------------|
-| ![Home Screen](ScreenShots/home.jpg) | ![Product Details Screen](ScreenShots/product.jpg) | ![AR Furniture View Screen](ScreenShots/ar_img.jpg) |
+<table>
+  <tr>
+    <td><img src="ScreenShots/home.jpg" alt="Home Screen" width="200"/></td>
+    <td><img src="ScreenShots/product.jpg" alt="Product Details Screen" width="200"/></td>
+    <td><img src="ScreenShots/ar_img.jpg" alt="AR Furniture View Screen" width="200"/></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Home Screen</td>
+    <td style="text-align: center;">Product Details Screen</td>
+    <td style="text-align: center;">AR Furniture View Screen</td>
+  </tr>
+</table>
 
 ### Drawer and Contact Screen
-| Drawer | Contact Screen |
-|----------------------|----------------|
-| ![Order Summary Screen](ScreenShots/Drawer.jpg) | ![Contact Screen](ScreenShots/contact.jpg) |
-
+<table>
+  <tr>
+    <td><img src="ScreenShots/Drawer.jpg" alt="Drawer" width="200"/></td>
+    <td><img src="ScreenShots/contact.jpg" alt="Contact Screen" width="200"/></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Drawer</td>
+    <td style="text-align: center;">Contact Screen</td>
+  </tr>
+</table>
 
 ## Contact
 
-For any questions or suggestions, please contact [sakibsanto57@gmal.com].
+For any questions or suggestions, please contact [sakibsanto57@gmail.com](mailto:sakibsanto57@gmail.com).
+
+## Project Report
+
+For more details about the project, you can [preview the Furnihub Final Project Report](./FurniHub_Final_Project_Report_210041209_210041232_210041262.pdf) directly.
+
