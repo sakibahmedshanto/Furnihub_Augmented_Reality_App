@@ -5,28 +5,33 @@ Furnihub is an innovative e-commerce Android application developed using Flutter
 ## Table of Contents
 
 - [Features](#features)
-- [GIFs](#gifs)
 - [Screenshots](#screenshots)
 - [Contact](#contact)
+- [Project Report](#project-report)
 
 ## Features
 
-- **Augmented Reality (AR)**
-  - View furniture in your room using AR before purchasing.
+### 🚀 **Immersive Augmented Reality (AR) Experience**
+- **Visualize Before You Buy**: Using cutting-edge AR technology, Furnihub lets you see how furniture pieces fit and look in your actual living space, ensuring confident purchasing decisions.
+- **Enhanced Realism**: The AR view provides a realistic and interactive way to place, rotate, and adjust furniture to match your room’s setup.
 
-- **User Authentication**
-  - Google Authentication
-  - Email Authentication
+### 🔐 **Seamless User Authentication**
+- **Effortless Sign-In**: Secure and straightforward authentication via Google or Email, ensuring a smooth and secure user experience.
+- **OAuth Standards**: We’ve implemented robust authentication protocols that adhere to industry security standards for safe user data management.
 
-- **Notifications**
-  - Push Notifications for order updates and promotions.
+### 🔔 **Real-Time Notifications**
+- **Stay Updated**: Receive instant push notifications about order updates, exclusive promotions, and new arrivals.
+- **Powered by Firebase Cloud Messaging**: Ensures reliable and fast communication to keep users informed and engaged.
 
-- **Backend Services**
-  - Firebase Firestore for data storage
-  - Firebase Authentication
-  - Firebase Cloud Messaging for push notifications
+### 📊 **Robust Backend Services**
+- **Scalable and Reliable**: Backed by Firebase Firestore, providing scalable and secure cloud storage for all user data, ensuring smooth and uninterrupted service.
+- **Real-Time Synchronization**: Data syncs seamlessly across devices, enabling users to switch between platforms without losing their shopping progress.
 
-## GIFs
+### 🌐 **Smooth Cross-Platform Compatibility**
+- **Built with Flutter**: Ensures a consistent and responsive experience on both Android and iOS devices.
+- **Maintained Standards**: Designed and developed by adhering to the best practices in mobile app development, guaranteeing stability, performance, and user satisfaction.
+
+## Demo Video
 
 Check out the video showcasing Furnihub in action:
 
@@ -81,4 +86,3 @@ For any questions or suggestions, please contact [sakibsanto57@gmail.com](mailto
 ## Project Report
 
 For more details about the project, you can [preview the Furnihub Final Project Report](./FurniHub_Final_Project_Report_210041209_210041232_210041262.pdf) directly.
-
